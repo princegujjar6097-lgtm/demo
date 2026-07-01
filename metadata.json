@@ -1,0 +1,8 @@
+{
+  "name": "Rawal Medical Hall",
+  "description": "Your trusted neighborhood pharmacy providing quality medicines, healthcare products, and professional pharmaceutical guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
