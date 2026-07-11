@@ -123,7 +123,7 @@ export function Contact() {
                       value={formData.phone}
                       onChange={(e) => setFormData({...formData, phone: e.target.value})}
                       className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-teal-600 focus:border-transparent outline-none transition"
-                      placeholder="e.g. 9671034467"
+                      placeholder="e.g. 9671073017"
                     />
                   </div>
                 </div>
@@ -136,7 +136,7 @@ export function Contact() {
                     value={formData.email}
                     onChange={(e) => setFormData({...formData, email: e.target.value})}
                     className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-teal-600 focus:border-transparent outline-none transition"
-                    placeholder="e.g. vishal@gmail.com"
+                    placeholder="e.g. princegujjar6097@gmil.com"
                   />
                 </div>
                 <div>
