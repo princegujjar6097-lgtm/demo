@@ -55,7 +55,7 @@ export function Contact() {
                   </div>
                   <div>
                     <span className="block font-bold text-gray-900 mb-1">Address</span>
-                    <span className="text-gray-600">Ponta sahib, Purwala, Nahan road</span>
+                    <span className="text-gray-600">Ponta sahib</span>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
@@ -64,7 +64,7 @@ export function Contact() {
                   </div>
                   <div>
                     <span className="block font-bold text-gray-900 mb-1">Phone</span>
-                    <span className="text-gray-600">9671034467</span>
+                    <span className="text-gray-600">9671073017</span>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
@@ -73,7 +73,7 @@ export function Contact() {
                   </div>
                   <div>
                     <span className="block font-bold text-gray-900 mb-1">Email</span>
-                    <span className="text-gray-600">vishal@gmail.com</span>
+                    <span className="text-gray-600">princegujjar6097@gmail.com</span>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
